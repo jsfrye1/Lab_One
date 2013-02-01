@@ -1,7 +1,28 @@
-p.main{
-  text-align:left;
-}
 h1{
-  margin(20);
-  background: red;
+  background:#000;
+  color:#FFF;
+  margin:0px;
+}
+#main{
+  float: left;
+  width: 650px;
+  height: 600px;
+  background:#996;
+  padding:0px;
+}
+
+#side{
+  float: right;
+  width: 250px;
+  height:600px;
+  padding:0px;
+  text-align:right;
+  color:#FFF ;
+  background:#003 ;
+}
+
+#footer{
+  text-align:center;
+  background:#000;
+  color:#FFF;
 }
