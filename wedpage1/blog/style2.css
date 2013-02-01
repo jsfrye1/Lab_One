@@ -1,7 +1,13 @@
+body{
+  position:fixed;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
 h1{
   background:#000;
   color:#FFF;
   margin:0px;
+  padding:25px;
 }
 #main{
   float: left;
@@ -16,7 +22,7 @@ h1{
   width: 250px;
   height:600px;
   padding:0px;
-  text-align:right;
+  text-align:center;
   color:#FFF ;
   background:#003 ;
 }
