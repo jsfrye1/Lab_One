@@ -1,0 +1,22 @@
+body{
+  font-family: 'Iceland', cursive;
+  background:green;
+}
+
+h1{
+  font-size:50;
+}
+
+h3{
+  font-size:30; 
+}
+
+#text{
+  margin-top:200px;
+  text-align:center;
+  float:center;
+}
+
+#images{
+  text-align:center;
+}
